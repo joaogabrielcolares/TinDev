@@ -3,5 +3,5 @@ Aplicação que possui funcionamento parecido com o app de relacionamento Tinder
 
 # Tecnologias
 * Node
-* ReactNative
+* React
 * Mongo
